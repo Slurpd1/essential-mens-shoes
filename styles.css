@@ -4,5 +4,15 @@
 
 p {
     font-family:'Times New Roman', Times, serif;
-    background-color: beige
+    color: rgba(44, 44, 44, 0.966);
+}
+
+.primary-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 45px;
+    text-align: center;
+    margin: 30px;
+    border-color: black;
+    padding: 10px;
 }
